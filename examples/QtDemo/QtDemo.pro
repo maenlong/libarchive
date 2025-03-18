@@ -117,12 +117,12 @@ macx {
 
     QMAKE_INFO_PLIST = $$PWD/mac/Info.plist
 
-    translations_en.files = $$PWD/mac/en.lproj/InfoPlist.strings
-    translations_en.path = Contents/Resources/en.lproj
-    QMAKE_BUNDLE_DATA += translations_en
-    translations_zh.files = $$PWD/mac/zh-Hans.lproj/InfoPlist.strings
-    translations_zh.path = Contents/Resources/zh-Hans.lproj
-    QMAKE_BUNDLE_DATA += translations_zh
+    # translations_en.files = $$PWD/mac/en.lproj/InfoPlist.strings
+    # translations_en.path = Contents/Resources/en.lproj
+    # QMAKE_BUNDLE_DATA += translations_en
+    # translations_zh.files = $$PWD/mac/zh-Hans.lproj/InfoPlist.strings
+    # translations_zh.path = Contents/Resources/zh-Hans.lproj
+    # QMAKE_BUNDLE_DATA += translations_zh
 
     QMAKE_POST_LINK  +=  $$quote(rm -f $$DESTDIR$${TARGET}.app/Contents/Resources/empty.lproj;)
 }

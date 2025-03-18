@@ -8,6 +8,7 @@
 
 bool compressFolderToZip(const QString &folderPath, const QString &archivePath)
 {
+#ifdef HAVE_LIB_ARCHIVE
     struct archive *a;
     struct archive_entry *entry;
     struct stat st;
@@ -46,10 +47,14 @@ bool compressFolderToZip(const QString &folderPath, const QString &archivePath)
     archive_write_close(a);
     archive_write_free(a);
     return true;
+#else
+    return false;
+#endif
 }
 
 bool decompressZipToFolder(const QString &archivePath, const QString &outputFolderPath)
 {
+#ifdef HAVE_LIB_ARCHIVE
     struct archive *a;
     struct archive_entry *entry;
     int r;
@@ -88,12 +93,16 @@ bool decompressZipToFolder(const QString &archivePath, const QString &outputFold
     archive_read_close(a);
     archive_read_free(a);
     return true;
+#else
+    return false;
+#endif
 }
 
 
 
 bool compressFolderToTar(const QString &folderPath, const QString &tarFilePath)
 {
+#ifdef HAVE_LIB_ARCHIVE
     struct archive *a;
     struct archive_entry *entry;
     char buff[8192];
@@ -131,10 +140,14 @@ bool compressFolderToTar(const QString &folderPath, const QString &tarFilePath)
     archive_write_close(a);
     archive_write_free(a);
     return true;
+#else
+    return false;
+#endif
 }
 
 bool decompressTarToFolder(const QString &tarFilePath, const QString &outputFolderPath)
 {
+#ifdef HAVE_LIB_ARCHIVE
     struct archive *a;
     struct archive_entry *entry;
     int r;
@@ -172,6 +185,9 @@ bool decompressTarToFolder(const QString &tarFilePath, const QString &outputFold
     archive_read_close(a);
     archive_read_free(a);
     return true;
+#else
+    return false;
+#endif
 }
 
 
