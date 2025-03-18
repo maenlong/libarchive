@@ -24,7 +24,7 @@ echo Building Release version...
 mkdir build-release
 cd build-release
 
-cmake .. -G "Visual Studio 15 2017" -A Win32 -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=OFF -DCMAKE_INSTALL_PREFIX=../build_win_release
+cmake .. -G "Visual Studio 15 2017" -A Win32 -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=../build_win_release
 cmake --build . --target ALL_BUILD --config Release
 cmake --build . --target INSTALL --config Release
 
@@ -36,7 +36,7 @@ echo Building Debug version...
 mkdir build-debug
 cd build-debug
 
-cmake .. -G "Visual Studio 15 2017" -A Win32 -DCMAKE_BUILD_TYPE=Debug -DBUILD_SHARED_LIBS=OFF -DCMAKE_INSTALL_PREFIX=../build_win_debug -DCMAKE_C_FLAGS="/W0"
+cmake .. -G "Visual Studio 15 2017" -A Win32 -DCMAKE_BUILD_TYPE=Debug -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=../build_win_debug -DCMAKE_C_FLAGS="/W0"
 cmake --build . --target ALL_BUILD --config Debug
 cmake --build . --target INSTALL --config Debug
 
