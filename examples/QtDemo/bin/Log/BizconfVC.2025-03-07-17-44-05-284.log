@@ -1,0 +1,680 @@
+03-07,17:44:05.284 [DEBUG] [main.cpp main 304] ----- ----- ----- ----- ----- ----- 
+03-07,17:44:05.284 [DEBUG] [main.cpp main 307] index =  0 argv =  C:\Program Files (x86)\BizConf\BizconfVC\BizconfVC.exe
+03-07,17:44:05.285 [DEBUG] [main.cpp main 309] ----- ----- ----- ----- ----- ----- 
+03-07,17:44:05.285 [DEBUG] [main.cpp main 340] Translator Ret =  true  FilePath =  "C:/Program Files (x86)/BizConf/BizconfVC\\translations\\widgets.qm"
+03-07,17:44:05.285 [DEBUG] [main.cpp main 344] Translator Ret =  true  FilePath =  "C:/Program Files (x86)/BizConf/BizconfVC\\translations\\qt_zh_CN.qm"
+03-07,17:44:05.287 [DEBUG] [main.cpp main 347] Translator Ret =  true  FilePath =  "C:/Program Files (x86)/BizConf/BizconfVC\\translations\\trans_zh_CN.qm"
+03-07,17:44:05.310 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.339 [DEBUG] [hchttpclient.cpp HCHttpClient::loadErrorCodeFromJson 571] ErrorInfoMapCount =  471
+03-07,17:44:05.340 [DEBUG] [rootuimgr.cpp RootUiMgr::initData 772] ErrorInfoTest Key =  "AddressBook_400_DEACTIVE_USER_NOT_EXIST_1"  Value =  "注销的用户不存在"
+03-07,17:44:05.340 [DEBUG] [hcsdkmgr.cpp NimSdkEventFilter::NimSdkEventFilter 44] NimSdkEventFilter::NimSdkEventFilter
+03-07,17:44:05.340 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::sdk_setCustomerDomain 200] HCSdkMgr::sdk_setCustomerDomain 
+ apiUrl =  "https://apinext-qa.bizvideo.cn/" 
+ mediaUrl =  "https://apinext-qa.bizvideo.cn/"
+03-07,17:44:05.340 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::sdk_initSDK 220] HCSdkMgr::sdk_initSDK 
+ productName =  "BizconfVC" 
+ appVersion =  "1.0.283"
+03-07,17:44:05.340 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::sdk_authSDK 240] HCSdkMgr::sdk_authSDK 
+ channelId =  "0010" 
+ key =  "8e894c7634af3a912c13db57b97a81fc"
+03-07,17:44:05.416 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_init 481] nim_client_init app_key =  "ca35d4305595c97963bdc5e1930d939f"
+03-07,17:44:05.416 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_init 482] nim_client_init app_data_dir =  "C:/Users/啊啊/AppData/Local/BizconfVC"
+03-07,17:44:05.416 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_init 483] nim_client_init app_install_dir =  "C:/Program Files (x86)/BizConf/BizconfVC"
+03-07,17:44:05.416 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_init 484] nim_client_init config =  ""
+03-07,17:44:05.416 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_init 485] nim_client_init Ret =  true
+03-07,17:44:05.416 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_init 489] MEL_KEY_POINT ---> Init Success
+03-07,17:44:05.416 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_init 492] MEL_KEY_POINT ---> Sdk Version =  "9.18.0.3160"
+03-07,17:44:05.745 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.771 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.771 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.771 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.771 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.771 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.772 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.772 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.772 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.788 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.789 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:05.846 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::initWidgetsStyle 1019] "QToolButton{color: #414D68; background-color: rgba(0, 0, 0, 0.0); border:none; padding:0px; margin: 10px 0px 10px 0px;}QToolButton:hover{color: #414D68; background-color: rgba(0, 0, 0, 0.0); border:none; padding:0px; margin: 10px 0px 10px 0px;}QToolButton:checked{color: #4169E2; background-color: rgba(0, 0, 0, 0.0); border:none; padding:0px; margin: 10px 0px 10px 0px;}"
+03-07,17:44:05.899 [WARNING] [  0] Cannot open file ':/Icon/QrcFile/Icon/icon_IM_friend recommendation.svg', because: No such file or directory
+03-07,17:44:05.899 [WARNING] [  0] Cannot open file ':/Icon/QrcFile/Icon/icon_IM_friend recommendation.svg', because: No such file or directory
+03-07,17:44:05.899 [WARNING] [  0] Cannot open file ':/Icon/QrcFile/Icon/icon_basic_meeting.svg', because: No such file or directory
+03-07,17:44:05.899 [WARNING] [  0] Cannot open file ':/Icon/QrcFile/Icon/icon_basic_meeting.svg', because: No such file or directory
+03-07,17:44:06.021 [WARNING] [  0] QMetaObject::connectSlotsByName: No matching signal for on_companyLinkBtn_clicked()
+03-07,17:44:06.021 [WARNING] [  0] QMetaObject::connectSlotsByName: No matching signal for on_licenseNoticeBtn_clicked()
+03-07,17:44:06.050 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:06.084 [WARNING] [  0] QMetaObject::connectSlotsByName: No matching signal for on_companyLinkBtn_clicked()
+03-07,17:44:06.084 [WARNING] [  0] QMetaObject::connectSlotsByName: No matching signal for on_licenseNoticeBtn_clicked()
+03-07,17:44:06.085 [WARNING] [  0] QMetaObject::connectSlotsByName: No matching signal for on_proxy_changed(int)
+03-07,17:44:06.111 [WARNING] [  0] QObject::connect: No such signal QKeySequenceEdit::sig_setKeySequence(QKeySequence)
+03-07,17:44:06.111 [WARNING] [  0] QObject::connect:  (sender name:   'scSendMsgKeyEdit')
+03-07,17:44:06.111 [WARNING] [  0] QObject::connect:  (receiver name: 'SettingWgt')
+03-07,17:44:06.111 [WARNING] [  0] QObject::connect: No such signal QKeySequenceEdit::sig_setKeySequence(QKeySequence)
+03-07,17:44:06.111 [WARNING] [  0] QObject::connect:  (sender name:   'scScreenShotKeyEdit')
+03-07,17:44:06.111 [WARNING] [  0] QObject::connect:  (receiver name: 'SettingWgt')
+03-07,17:44:06.111 [WARNING] [  0] QObject::connect: No such signal QKeySequenceEdit::sig_setKeySequence(QKeySequence)
+03-07,17:44:06.111 [WARNING] [  0] QObject::connect:  (sender name:   'scShowHideKeyEdit')
+03-07,17:44:06.111 [WARNING] [  0] QObject::connect:  (receiver name: 'SettingWgt')
+03-07,17:44:06.152 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:44:06.154 [WARNING] [  0] QMetaObject::connectSlotsByName: No matching signal for on_companyLinkBtn_clicked()
+03-07,17:44:06.154 [WARNING] [  0] QMetaObject::connectSlotsByName: No matching signal for on_licenseNoticeBtn_clicked()
+03-07,17:44:06.160 [WARNING] [  0] Cannot open file ':/Common/QrcFile/Common/pc_login_logo.svg', because: No such file or directory
+03-07,17:44:06.161 [WARNING] [  0] Cannot open file ':/Common/QrcFile/Common/pc_login_logo.svg', because: No such file or directory
+03-07,17:44:06.191 [DEBUG] [rootuimgr.cpp RootUiMgr::slot_ctrlRootWgt 834] RootUiMgr::slot_ctrlRootWgt  Index =  0
+03-07,17:44:06.191 [DEBUG] [rootuimgr.cpp RootUiMgr::showWgt 181] RootUiMgr::showWgt  Index =  0
+03-07,17:44:06.198 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:06.208 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/clientapi/checkVersion?systemName=windows&productName=cn.bizconf.bizconfvc&versionId=1.0.283"
+03-07,17:44:06.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:06.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"No updates available!\",\"result\":false}"
+03-07,17:44:06.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:06:349"
+03-07,17:44:06.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  150  ms
+03-07,17:44:06.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:06.350 [DEBUG] [versioninfowgt.cpp VersionInfoWgt::getVersionInfo 130]  No_New_Verson 
+03-07,17:44:06.350 [DEBUG] [loginmainwgt.cpp LoginMainWgt::slot_agreement_stateChanged 1186] LoginMainWgt::slot_agreement_stateChanged  arg1 =  2
+03-07,17:44:06.354 [DEBUG] [loginmainwgt.cpp LoginMainWgt::showPage 462] LoginMainWgt::showPage  nPage =  0
+03-07,17:44:06.355 [DEBUG] [loginmainwgt.cpp LoginMainWgt::slot_remberPwd_changed 1308] LoginMainWgt::slot_remberPwd_changed  nState =  2
+03-07,17:44:09.945 [DEBUG] [loginmainwgt.cpp LoginMainWgt::slot_appSettingBtn_clicked 1179] LoginMainWgt::slot_appSettingBtn_clicked
+03-07,17:44:09.945 [DEBUG] [rootuimgr.cpp RootUiMgr::slot_ctrlRootWgt 834] RootUiMgr::slot_ctrlRootWgt  Index =  2
+03-07,17:44:09.945 [DEBUG] [rootuimgr.cpp RootUiMgr::showWgt 181] RootUiMgr::showWgt  Index =  2
+03-07,17:44:09.945 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:09.945 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/clientapi/checkVersion?systemName=windows&productName=cn.bizconf.bizconfvc&versionId=1.0.283"
+03-07,17:44:10.016 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:10.016 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"No updates available!\",\"result\":false}"
+03-07,17:44:10.016 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:10:016"
+03-07,17:44:10.016 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  71  ms
+03-07,17:44:10.016 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:10.017 [DEBUG] [versioninfowgt.cpp VersionInfoWgt::getVersionInfo 130]  No_New_Verson 
+03-07,17:44:10.017 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:10.017 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_1"
+03-07,17:44:10.018 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  0
+03-07,17:44:11.824 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:11.824 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_4"
+03-07,17:44:11.825 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  3
+03-07,17:44:11.825 [DEBUG] [servicepagewgt.cpp ServicePageWgt::initPage 32] ServicePageWgt::initPage
+03-07,17:44:11.826 [DEBUG] [servicepagewgt.cpp ServicePageWgt::slot_btnGroupClicked 109] ServicePageWgt::slot_btnGroupClicked  BtnId =  2
+03-07,17:44:13.492 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:13.492 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_6"
+03-07,17:44:13.493 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  5
+03-07,17:44:13.494 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:13.494 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/clientapi/checkVersion?systemName=windows&productName=cn.bizconf.bizconfvc&versionId=1.0.283"
+03-07,17:44:13.560 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:13.560 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"No updates available!\",\"result\":false}"
+03-07,17:44:13.560 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:13:560"
+03-07,17:44:13.560 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  66  ms
+03-07,17:44:13.560 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:13.561 [DEBUG] [versioninfowgt.cpp VersionInfoWgt::getVersionInfo 130]  No_New_Verson 
+03-07,17:44:14.203 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:14.203 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_4"
+03-07,17:44:14.203 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  3
+03-07,17:44:14.203 [DEBUG] [servicepagewgt.cpp ServicePageWgt::initPage 32] ServicePageWgt::initPage
+03-07,17:44:14.204 [DEBUG] [servicepagewgt.cpp ServicePageWgt::slot_btnGroupClicked 109] ServicePageWgt::slot_btnGroupClicked  BtnId =  2
+03-07,17:44:16.359 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:16.359 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_1"
+03-07,17:44:16.363 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  0
+03-07,17:44:16.984 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:16.984 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_4"
+03-07,17:44:16.987 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  3
+03-07,17:44:16.987 [DEBUG] [servicepagewgt.cpp ServicePageWgt::initPage 32] ServicePageWgt::initPage
+03-07,17:44:16.987 [DEBUG] [servicepagewgt.cpp ServicePageWgt::slot_btnGroupClicked 109] ServicePageWgt::slot_btnGroupClicked  BtnId =  2
+03-07,17:44:17.912 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:17.912 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_4"
+03-07,17:44:18.477 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:18.477 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_1"
+03-07,17:44:18.481 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  0
+03-07,17:44:24.716 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:24.716 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_4"
+03-07,17:44:24.718 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  3
+03-07,17:44:24.718 [DEBUG] [servicepagewgt.cpp ServicePageWgt::initPage 32] ServicePageWgt::initPage
+03-07,17:44:24.719 [DEBUG] [servicepagewgt.cpp ServicePageWgt::slot_btnGroupClicked 109] ServicePageWgt::slot_btnGroupClicked  BtnId =  2
+03-07,17:44:28.735 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:44:28.735 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_1"
+03-07,17:44:28.738 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  0
+03-07,17:44:32.711 [DEBUG] [loginmainwgt.cpp LoginMainWgt::slot_loginBtn_clicked 1228] LoginMainWgt::slot_loginBtn_clicked  Page =  0
+03-07,17:44:32.712 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:32.712 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/login?loginName=enlong_previp&loginPass=489d31708f84db864bf9c6fabdc13a4b&systemVersion=%%7B%%22os%%22%%3A%%22Windows%%22%%2C%%22os_version%%22%%3A%%2210.0.22635.0%%22%%2C%%22client%%22%%3A%%22VERSION_NAME%%22%%2C%%22client_version%%22%%3A%%222.12.0%%22%%7D"
+03-07,17:44:32.712 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:44:32.819 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:32.819 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"messageEN\":\"success\",\"messageCH\":\"登录成功\",\"data\":{\"optionJbh\":0,\"muteWhenJoining\":0,\"isSupportIm\":1,\"isseediytuiliu\":1,\"autoIncreaseCapacity\":0,\"isFirst\":1,\"isBindPhone\":0,\"loginName\":\"enlong_previp\",\"ccCapacity\":2000,\"loginPass\":\"489d31708f84db864bf9c6fabdc13a4b\",\"userEmail\":\"enlong_previp@bizconf.cn\",\"pmiId\":\"50009000037\",\"watermark\":0,\"imgFile\":\"\",\"isseeinterpretation\":1,\"forceModifyPwd\":0,\"zak\":\"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDkxMTY2NzIsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.ap9LLbBD2YnuWachagrtRGKrjfbh83TGpIYTllUFP4s\",\"nickName\":\"enlong_previp\",\"deptId\":\"16672\",\"personalRoom\":2665602,\"maxCapacity\":2000,\"imAccid\":\"meetingnext-qa-bfsite1_102382732\",\"imAppKey\":\"ca35d4305595c97963bdc5e1930d939f\",\"isSupportCreateNewUser\":false,\"userId\":102382732,\"isseetuiliu\":1,\"mobileVerification\":0,\"isShareUser\":false,\"site_url\":\"meetingnext-qa-bfsite1.bizvideo.cn\",\"numParties\":50,\"phone\":\"\",\"imToken\":\"819b71d84c63a396f3713a96e21d96ef\",\"isContacts\":1,\"isConcurrency\":1,\"disableInviteBySMS\":0,\"isseetuiliuoption\":1,\"imAppSecret\":\"ecd548efbd91\",\"optionVideoParticipants\":1}}"
+03-07,17:44:32.819 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:32:819"
+03-07,17:44:32.819 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  106  ms
+03-07,17:44:32.819 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:32.820 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_login 546] nim::Client::Login appKey =  "ca35d4305595c97963bdc5e1930d939f"
+03-07,17:44:32.820 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_login 547] nim::Client::Login account =  "meetingnext-qa-bfsite1_102382732"
+03-07,17:44:32.820 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_login 548] nim::Client::Login token =  "819b71d84c63a396f3713a96e21d96ef"
+03-07,17:44:32.820 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_login 549] nim::Client::Login Ret =  true
+03-07,17:44:32.820 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_login 552] MEL_KEY_POINT ---> Login Ret Success
+03-07,17:44:32.824 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:32.824 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getUserLogo?loginName=enlong_previp&token=2143353e103af64e5c1414133b7555cc&timeStamp=1741340672824"
+03-07,17:44:32.824 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:44:32.837 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 16] nim_comp::LoginCallback::OnLoginCallback
+03-07,17:44:32.838 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 18] ----- ----- ----- LoginRes ----- ----- -----
+03-07,17:44:32.838 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 19] NIMResCode =  200
+03-07,17:44:32.838 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 20] relogin_ =  false
+03-07,17:44:32.838 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 21] NIMLoginStep =  0
+03-07,17:44:32.838 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 22] retrying_ =  true
+03-07,17:44:32.838 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 24] ----- ----- ----- user_data ----- ----- -----
+03-07,17:44:32.838 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 25] user_data =  0x0
+03-07,17:44:32.892 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:32.892 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":403,\"message\":\"头像不存在，请设置默认值\"}"
+03-07,17:44:32.892 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:32:892"
+03-07,17:44:32.892 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  68  ms
+03-07,17:44:32.892 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:32.892 [DEBUG] [loginmainwgt.cpp LoginMainWgt::loginByNamePass 822]  No_Head_Url 
+03-07,17:44:32.901 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:32.901 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/saveEventLog?eventType=APP_LOGIN&eventDetail=&device=Windows&system=10.0.22635.0&appName=BVPro&appVersion=2.12.0&loginName=enlong_previp&token=4e60b26e7ac911e7aecd32d35e48731a&timeStamp=1741340672901"
+03-07,17:44:32.901 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:44:32.902 [DEBUG] [rootuimgr.cpp RootUiMgr::slot_ctrlRootWgt 834] RootUiMgr::slot_ctrlRootWgt  Index =  0
+03-07,17:44:32.903 [DEBUG] [rootuimgr.cpp RootUiMgr::hideWgt 239] RootUiMgr::hideWgt  Index =  0
+03-07,17:44:32.916 [DEBUG] [rootuimgr.cpp RootUiMgr::slot_ctrlRootWgt 834] RootUiMgr::slot_ctrlRootWgt  Index =  1
+03-07,17:44:32.916 [DEBUG] [rootuimgr.cpp RootUiMgr::showWgt 181] RootUiMgr::showWgt  Index =  1
+03-07,17:44:32.916 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 265] MainPanelWgt::slot_menuBarBtn_clicked
+03-07,17:44:32.916 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 270]  Sender =  "menuBarBtn_1"
+03-07,17:44:32.917 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_curPage_changed 344] MainPanelWgt::slot_curPage_changed  CurPage =  0
+03-07,17:44:32.917 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:32.917 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfsByLoginNameAndTime2?startTime=2025-03-06%%2016%%3A00%%3A00&endTime=2026-03-06%%2016%%3A00%%3A00&skip=0&loginName=enlong_previp&token=d2ad38bd58a06d6d0c1a30f7ec7a15ff&timeStamp=1741340672917"
+03-07,17:44:32.917 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:44:32.924 [DEBUG] [rootuimgr.cpp RootUiMgr::slot_createMsgBox 843] RootUiMgr::slot_createMsgBox  infoList =  ("", "提示", "为了您的账户安全，请立即修改初始密码！", "立即修改", "忽略", "{5385c349-aa1a-4a4b-8795-fca20a60f840}")
+03-07,17:44:32.924 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 16] nim_comp::LoginCallback::OnLoginCallback
+03-07,17:44:32.924 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 18] ----- ----- ----- LoginRes ----- ----- -----
+03-07,17:44:32.924 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 19] NIMResCode =  200
+03-07,17:44:32.924 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 20] relogin_ =  false
+03-07,17:44:32.924 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 21] NIMLoginStep =  2
+03-07,17:44:32.924 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 22] retrying_ =  true
+03-07,17:44:32.924 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 24] ----- ----- ----- user_data ----- ----- -----
+03-07,17:44:32.924 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 25] user_data =  0x0
+03-07,17:44:33.119 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 16] nim_comp::LoginCallback::OnLoginCallback
+03-07,17:44:33.119 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 18] ----- ----- ----- LoginRes ----- ----- -----
+03-07,17:44:33.120 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 19] NIMResCode =  200
+03-07,17:44:33.120 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 20] relogin_ =  false
+03-07,17:44:33.120 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 21] NIMLoginStep =  3
+03-07,17:44:33.120 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 22] retrying_ =  false
+03-07,17:44:33.120 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 24] ----- ----- ----- user_data ----- ----- -----
+03-07,17:44:33.120 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnLoginCallback 25] user_data =  0x0
+03-07,17:44:33.120 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_getLoginState 583] nim::Client::GetLoginState Ret =  1
+03-07,17:44:33.120 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_getServerCurTime 599] MEL_KEY_POINT ---> GetServerTime Ret Success
+03-07,17:44:33.202 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnGetServerCurrentTimeCallbacl 127] nim_comp::LoginCallback::OnGetServerCurrentTimeCallbacl
+03-07,17:44:33.202 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnGetServerCurrentTimeCallbacl 129] ----- ----- ----- GetServerCurrentTimeRes ----- ----- -----
+03-07,17:44:33.202 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnGetServerCurrentTimeCallbacl 130] NIMResCode =  200
+03-07,17:44:33.202 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnGetServerCurrentTimeCallbacl 131] rescode =  200
+03-07,17:44:33.202 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnGetServerCurrentTimeCallbacl 132] calc_local =  false
+03-07,17:44:33.202 [DEBUG] [login_callback.cpp nim_comp::LoginCallback::OnGetServerCurrentTimeCallbacl 133] time =  1741340673212
+03-07,17:44:33.202 [DEBUG] [hcsdkmgr.cpp NimSdkEventFilter::eventFilter 122] ServerTime =  "1741340673212"
+03-07,17:44:33.968 [DEBUG] [loginmainwgt.cpp  854] InfoList =  ("", "提示", "为了您的账户安全，请立即修改初始密码！", "立即修改", "忽略", "{5385c349-aa1a-4a4b-8795-fca20a60f840}") nRet =  0
+03-07,17:44:33.973 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:33.973 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":[]}"
+03-07,17:44:33.973 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:33:973"
+03-07,17:44:33.973 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  1055  ms
+03-07,17:44:33.973 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:33.973 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::updateConfsByTime 1067] ConfListCount =  0
+03-07,17:44:33.973 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::updateConfsByTime 1071] ConfList2Count =  0
+03-07,17:44:33.974 [DEBUG] [roundheadlabel.cpp RoundHeadLabel::setHeadImage 24] 36 36
+03-07,17:44:34.033 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:34.033 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\"}"
+03-07,17:44:34.033 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:34:033"
+03-07,17:44:34.033 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  1132  ms
+03-07,17:44:34.033 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:36.560 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 265] MainPanelWgt::slot_menuBarBtn_clicked
+03-07,17:44:36.560 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 270]  Sender =  "menuBarBtn_6"
+03-07,17:44:36.561 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_curPage_changed 344] MainPanelWgt::slot_curPage_changed  CurPage =  5
+03-07,17:44:36.562 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:36.562 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getChildDeptList?deptId=16672&loginName=enlong_previp&token=cfdc4364bb7be419818c8f26ceae33c9&timeStamp=1741340676562"
+03-07,17:44:36.562 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:44:36.640 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:36.640 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":[{\"id\":16666,\"deptName\":\"QA并发预付费站点\",\"level\":\"16666#\",\"perent\":0,\"children\":[{\"id\":16672,\"deptName\":\"开发部门1级\",\"level\":\"16666#16672#\",\"perent\":16666,\"children\":[]}]}]}"
+03-07,17:44:36.640 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:36:640"
+03-07,17:44:36.640 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  78  ms
+03-07,17:44:36.640 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:36.640 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::initDataByDeptId 432] DeptTreeCount =  2
+03-07,17:44:36.642 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:36.642 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getImContactsByPage?page=0&deptId=16672&loginName=enlong_previp&token=8974059ae2a2ddd6c667494deed844b9&timeStamp=1741340676642"
+03-07,17:44:36.642 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:44:36.719 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:36.719 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":[{\"imAccid\":\"meetingnext-qa-bfsite1_102382718\",\"nickName\":\"leifang_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382718},{\"imAccid\":\"meetingnext-qa-bfsite1_102382719\",\"nickName\":\"zhanggai_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382719},{\"imAccid\":\"meetingnext-qa-bfsite1_102382720\",\"nickName\":\"hongfei_preshare\",\"deptId\":\"16672\",\"imgFile\":\"https://meetingnext-qa-bfsite1.bizvideo.cn/uploadfiles/user_picture/d0978ed11f7db54b7ca6dc9c5bd741bb.jpg\",\"userId\":102382720},{\"imAccid\":\"meetingnext-qa-bfsite1_102382721\",\"nickName\":\"liubin_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382721},{\"imAccid\":\"meetingnext-qa-bfsite1_102382722\",\"nickName\":\"viher_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382722},{\"imAccid\":\"meetingnext-qa-bfsite1_102382723\",\"nickName\":\"enlong_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382723},{\"imAccid\":\"meetingnext-qa-bfsite1_102382724\",\"nickName\":\"guangyi_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382724},{\"imAccid\":\"meetingnext-qa-bfsite1_102382725\",\"nickName\":\"zhangyan_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382725},{\"imAccid\":\"meetingnext-qa-bfsite1_102382726\",\"nickName\":\"xudan_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382726},{\"imAccid\":\"meetingnext-qa-bfsite1_102382727\",\"nickName\":\"chenyuan_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382727},{\"imAccid\":\"meetingnext-qa-bfsite1_102382728\",\"nickName\":\"arm_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382728},{\"imAccid\":\"meetingnext-qa-bfsite1_102382729\",\"nickName\":\"leifang_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382729},{\"imAccid\":\"meetingnext-qa-bfsite1_102382730\",\"nickName\":\"zhanggai_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382730},{\"imAccid\":\"meetingnext-qa-bfsite1_102382731\",\"nickName\":\"hongfei_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382731},{\"imAccid\":\"meetingnext-qa-bfsite1_102382732\",\"nickName\":\"enlong_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382732},{\"imAccid\":\"meetingnext-qa-bfsite1_102382735\",\"nickName\":\"zhangyan_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382735},{\"imAccid\":\"meetingnext-qa-bfsite1_102382736\",\"nickName\":\"xudan_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382736},{\"imAccid\":\"meetingnext-qa-bfsite1_102382737\",\"nickName\":\"chenyuan_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382737},{\"imAccid\":\"meetingnext-qa-bfsite1_102382738\",\"nickName\":\"guangyi_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382738},{\"imAccid\":\"meetingnext-qa-bfsite1_102382739\",\"nickName\":\"liubin_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382739},{\"imAccid\":\"meetingnext-qa-bfsite1_102382740\",\"nickName\":\"arm_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382740},{\"imAccid\":\"meetingnext-qa-bfsite1_102382784\",\"nickName\":\"leifangtest1\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382784},{\"imAccid\":\"meetingnext-qa-bfsite1_102382804\",\"nickName\":\"leifang_presharem\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382804},{\"imAccid\":\"meetingnext-qa-bfsite1_102382810\",\"nickName\":\"viher_1\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382810},{\"imAccid\":\"meetingnext-qa-bfsite1_102382814\",\"nickName\":\"test_1218\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382814},{\"imAccid\":\"meetingnext-qa-bfsite1_102382815\",\"nickName\":\"test_1219\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382815},{\"imAccid\":\"meetingnext-qa-bfsite1_102382816\",\"nickName\":\"test_1230\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382816},{\"imAccid\":\"meetingnext-qa-bfsite1_102382862\",\"nickName\":\"leifang_zest1\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382862},{\"imAccid\":\"meetingnext-qa-bfsite1_102382863\",\"nickName\":\"test_123\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382863}],\"pageCount\":1,\"rowsCount\":29,\"nowPage\":\"1\"}"
+03-07,17:44:36.719 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:36:719"
+03-07,17:44:36.719 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  77  ms
+03-07,17:44:36.719 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:36.720 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::initDataByDeptId 485] PersonTreeCount =  29
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]  └─ [ 0 ] root  ( Department )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]     └─ [ 16666 ] QA并发预付费站点  ( Department )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]        └─ [ 16672 ] 开发部门1级  ( Department )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382718 ] leifang_preshare  ( Person )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382719 ] zhanggai_preshare  ( Person )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382720 ] hongfei_preshare  ( Person )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382721 ] liubin_preshare  ( Person )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382722 ] viher_preshare  ( Person )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382723 ] enlong_preshare  ( Person )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382724 ] guangyi_preshare  ( Person )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382725 ] zhangyan_preshare  ( Person )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382726 ] xudan_preshare  ( Person )
+03-07,17:44:36.720 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382727 ] chenyuan_preshare  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382728 ] arm_preshare  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382729 ] leifang_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382730 ] zhanggai_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382731 ] hongfei_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382732 ] enlong_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382735 ] zhangyan_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382736 ] xudan_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382737 ] chenyuan_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382738 ] guangyi_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382739 ] liubin_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382740 ] arm_previp  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382784 ] leifangtest1  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382804 ] leifang_presharem  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382810 ] viher_1  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382814 ] test_1218  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382815 ] test_1219  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382816 ] test_1230  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382862 ] leifang_zest1  ( Person )
+03-07,17:44:36.721 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           └─ [ 102382863 ] test_123  ( Person )
+03-07,17:44:36.721 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::initDataByDeptId 540]  nowPage =  1  pageCount =  1  rowsCount =  29
+03-07,17:44:36.760 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::on_leftTopInputLet_textEdited 1029] AddressBookPageWgt::on_leftTopInputLet_textEdited  Search_KeyWord =  ""
+03-07,17:44:37.724 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 265] MainPanelWgt::slot_menuBarBtn_clicked
+03-07,17:44:37.724 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 270]  Sender =  "menuBarBtn_1"
+03-07,17:44:37.725 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_curPage_changed 344] MainPanelWgt::slot_curPage_changed  CurPage =  0
+03-07,17:44:37.726 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:37.726 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfsByLoginNameAndTime2?startTime=2025-03-06%%2016%%3A00%%3A00&endTime=2026-03-06%%2016%%3A00%%3A00&skip=0&loginName=enlong_previp&token=71ab66529600e2055878aba70b6baba7&timeStamp=1741340677726"
+03-07,17:44:37.726 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:44:37.803 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:37.803 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":[]}"
+03-07,17:44:37.803 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:37:803"
+03-07,17:44:37.803 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  77  ms
+03-07,17:44:37.803 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:37.803 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::updateConfsByTime 1067] ConfListCount =  0
+03-07,17:44:37.803 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::updateConfsByTime 1071] ConfList2Count =  0
+03-07,17:44:38.228 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_confOperaBtn_clicked 1179] ConfMgrPageWgt::slot_confOperaBtn_clicked  Sender = "scheduleConfBtn"
+03-07,17:44:38.256 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::initPage 107] Current Time Zone Info:  "(UTC+08:00) 中国标准时间"
+03-07,17:44:38.258 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:44:38.258 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getAvailableRooms?startTime=2025-03-07%%2010%%3A00%%3A00&duration=60&beforeTime=30&loginName=enlong_previp&token=1bb105267341b72bea8f0aaf63613237&timeStamp=1741340678258"
+03-07,17:44:38.258 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:44:38.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:44:38.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"numParties\":[{\"num_counts\":\"24\",\"num_partis\":\"0\"}]}}"
+03-07,17:44:38.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:44:38:349"
+03-07,17:44:38.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  91  ms
+03-07,17:44:38.349 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:44:38.349 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::updateAvailableRooms 657] GetAvailableRoomsResult =  "{\"status\":100,\"message\":\"success\",\"data\":{\"numParties\":[{\"num_counts\":\"24\",\"num_partis\":\"0\"}]}}"
+03-07,17:44:43.366 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_confOperaBtn_clicked 1267]  nExec =  0
+03-07,17:47:25.738 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_confOperaBtn_clicked 1179] ConfMgrPageWgt::slot_confOperaBtn_clicked  Sender = "scheduleConfBtn"
+03-07,17:47:25.767 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::initPage 107] Current Time Zone Info:  "(UTC+08:00) 中国标准时间"
+03-07,17:47:25.769 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:47:25.769 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getAvailableRooms?startTime=2025-03-07%%2010%%3A00%%3A00&duration=60&beforeTime=30&loginName=enlong_previp&token=69a31622e4c5a1f86bc29b7f184cb607&timeStamp=1741340845769"
+03-07,17:47:25.769 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:47:25.874 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:47:25.874 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"numParties\":[{\"num_counts\":\"24\",\"num_partis\":\"0\"}]}}"
+03-07,17:47:25.874 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:47:25:874"
+03-07,17:47:25.874 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  104  ms
+03-07,17:47:25.874 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:47:25.875 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::updateAvailableRooms 657] GetAvailableRoomsResult =  "{\"status\":100,\"message\":\"success\",\"data\":{\"numParties\":[{\"num_counts\":\"24\",\"num_partis\":\"0\"}]}}"
+03-07,17:47:55.640 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_confOperaBtn_clicked 1267]  nExec =  0
+03-07,17:47:57.097 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_userHeadBtn_clicked 256] MainPanelWgt::slot_userHeadBtn_clicked
+03-07,17:47:57.098 [DEBUG] [roundheadlabel.cpp RoundHeadLabel::setHeadImage 24] 65 65
+03-07,17:47:58.437 [WARNING] [  0] libpng warning: iCCP: known incorrect sRGB profile
+03-07,17:47:58.443 [WARNING] [  0] QString::arg: Argument missing: QToolButton{color:#414D68; background-color:rgba(255, 255, 255, 0); border:none; padding:0px;}, #4169E2
+03-07,17:47:58.445 [DEBUG] [myprofilewgt.cpp MyProfileWgt::MyProfileWgt 30] MyProfileWgt::MyProfileWgt
+03-07,17:47:59.715 [DEBUG] [myprofilewgt.cpp MyProfileWgt::~MyProfileWgt 35] MyProfileWgt::~MyProfileWgt
+03-07,17:48:00.406 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 265] MainPanelWgt::slot_menuBarBtn_clicked
+03-07,17:48:00.406 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 270]  Sender =  "menuBarBtn_6"
+03-07,17:48:00.407 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_curPage_changed 344] MainPanelWgt::slot_curPage_changed  CurPage =  5
+03-07,17:48:01.359 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::on_adbkDataListWgt_itemClicked 1193] AddressBookPageWgt::on_adbkDataListWgt_itemClicked "leifang_preshare"
+03-07,17:48:03.388 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::on_adbkDataListWgt_itemClicked 1193] AddressBookPageWgt::on_adbkDataListWgt_itemClicked "leifang_preshare"
+03-07,17:48:03.998 [DEBUG] [personinfowgt.cpp PersonInfoWgt::on_videoBtn_clicked 177] PersonInfoWgt::on_videoBtn_clicked
+03-07,17:48:03.999 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::invitePersonsByIM 935] AddressBookPageWgt::invitePersonsByIM
+03-07,17:48:04.008 [DEBUG] [instantconfpagewgt.cpp InstantConfPageWgt::on_modifyConfBtn_51_clicked 990] InstantConfPageWgt::on_modifyConfBtn_51_clicked  checked =  true
+03-07,17:48:04.039 [DEBUG] [instantconfpagewgt.cpp InstantConfPageWgt::slot_invitePersons 1121] InstantConfPageWgt::slot_invitePersons
+03-07,17:48:04.039 [DEBUG] [instantconfpagewgt.cpp InstantConfPageWgt::on_modifyConfBtn_52_clicked 1042] InstantConfPageWgt::on_modifyConfBtn_52_clicked  checked =  false
+03-07,17:48:04.040 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:04.040 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfBymeetingNumber?meetingNumber=50009000037&loginName=enlong_previp&token=cd1d82fb805f8f0c97a3fccab2b27e4d&timeStamp=1741340884040"
+03-07,17:48:04.040 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:04.132 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:04.132 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"hostName\":\"enlong_previp\",\"beforeTime\":0,\"optionJbh\":0,\"muteWhenJoining\":0,\"cycleId\":0,\"virConfId\":0,\"meetingAuthentication\":0,\"streamKey\":\"\",\"duration\":52560000,\"cycleEndTime\":\"\",\"password\":\"074838\",\"startTime\":\"2024-11-17 02:28:04\",\"confType\":0,\"watchUrl\":\"\",\"confId\":0,\"streamUrl\":\"\",\"watermark\":0,\"diyTuiliu\":0,\"zak\":\"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjQ4ODU1NTQ0ODQsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.Wtn8vKTWE8ejqOoQgyaZg5FXTxMiIZIjd7Lc5siEzpk\",\"isBingfa\":0,\"confNumParties\":50,\"hostId\":2665602,\"hostKey\":\"623825\",\"meetingNumber\":\"50009000037\",\"autoTuiliu\":0,\"optionVideoHost\":0,\"meetingName\":\"enlong_previp 的个人会议室\",\"confStatus\":0,\"interpretation\":1,\"waitingRoom\":0,\"optionVideoParticipants\":1}}"
+03-07,17:48:04.132 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:04:132"
+03-07,17:48:04.132 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  93  ms
+03-07,17:48:04.132 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:04.134 [DEBUG] [hchttpclient.cpp HCHttpClient::convertUTCStringToLocalTimeZone 462] Invalid date time format
+03-07,17:48:04.135 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::sdk_startMeeting 260] HCSdkMgr::sdk_startMeeting 
+ meetingNo =  "50009000037" 
+ userName =  "enlong_previp" 
+ password =  "074838" 
+ cuid =  "" 
+ zak =  "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDkxMTY2NzIsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.ap9LLbBD2YnuWachagrtRGKrjfbh83TGpIYTllUFP4s" 
+ force =  0
+03-07,17:48:04.944 [DEBUG] [addressbookpagewgt.cpp  969]  nResult =  1
+03-07,17:48:04.955 [DEBUG] [instantconfpagewgt.cpp InstantConfPageWgt::on_modifyConfBtn_52_clicked 1110] User_Bv_Pro_Next_Sdk_Success
+03-07,17:48:04.956 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::invitePersonsByIM 974]  nExec =  1
+03-07,17:48:04.956 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::on_leftTopRefreshBtn_clicked 1018] AddressBookPageWgt::on_leftTopRefreshBtn_clicked
+03-07,17:48:04.956 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::on_adbkMenuListWgt_itemClicked 1175] AddressBookPageWgt::on_adbkMenuListWgt_itemClicked "开发部门1级"
+03-07,17:48:04.956 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:04.956 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getChildDeptList?deptId=16672&loginName=enlong_previp&token=293956342d16f26e77a4e51e561fba6e&timeStamp=1741340884956"
+03-07,17:48:04.956 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:04.980 [DEBUG] [hcsdkmgr.cpp onMeetingStatusChanged 20] onMeetingStatusChanged  status =  0  result =  0  extrainfo =  "launch success"
+03-07,17:48:04.980 [DEBUG] [rootuimgr.cpp RootUiMgr::slot_onMeetingStatusChanged 1016] RootUiMgr::slot_onMeetingStatusChanged  status =  0  result =  0  extrainfo =  "launch success"
+03-07,17:48:04.984 [DEBUG] [calllistwgt.cpp CallListWgt::CallListWgt 36] CallListWgt::CallListWgt
+03-07,17:48:04.984 [DEBUG] [calllistwgt.cpp CallListWgt::setConfInfo 49] CallListWgt::setConfInfo  confInfo =  QMap(("cuid", "")("force", "0")("meetingNo", "50009000037")("password", "074838")("userName", "enlong_previp")("zak", "eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDkxMTY2NzIsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.ap9LLbBD2YnuWachagrtRGKrjfbh83TGpIYTllUFP4s"))
+03-07,17:48:04.984 [DEBUG] [calllistwgt.cpp CallListWgt::addPersons 63] CallListWgt::addPersons
+03-07,17:48:04.985 [DEBUG] [calllistwgt.cpp CallListWgt::on_callStatusListWgt_itemClicked 205] CallListWgt::on_callStatusListWgt_itemClicked "leifang_preshare"
+03-07,17:48:04.985 [DEBUG] [calllistwgt.cpp CallListWgt::on_callStatusListWgt_itemClicked 213]  Status =  "CallStatus-None"
+03-07,17:48:04.985 [DEBUG] [calllistwgt.cpp CallListWgt::slot_onCallStatusChanged 443] CallListWgt::slot_onCallStatusChanged  senderId =  "meetingnext-qa-bfsite1_102382718"  cmdType =  "CS"
+03-07,17:48:05.024 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::clearLastJoinArgs 376] HCSdkMgr::clearLastJoinArgs
+03-07,17:48:05.038 [DEBUG] [customevent.h formatJsonString 155] Json String =  "dc0946f8236b710242e5f2b5c2bf7745~CS~50009000037~074838"
+03-07,17:48:05.038 [DEBUG] [customevent.h formatJsonString 156] JSON parse error: "illegal value"
+03-07,17:48:05.038 [DEBUG] [hcsdkmgr.cpp NimSdkEventFilter::eventFilter 94] MEL_KEY_POINT ---> "\n SendMsg = \ndc0946f8236b710242e5f2b5c2bf7745~CS~50009000037~074838"
+03-07,17:48:05.087 [DEBUG] [session_callback.cpp nim_comp::TalkCallback::OnSendMsgCallback 23] nim_comp::TalkCallback::OnSendMsgCallback  JsonStr =  "{\"anti_spam_res\":\"\",\"msg_id\":\"{e1b42b53-b35e-4efa-8b62-41de0e92bb3b}\",\"msg_id_server\":13561880843218,\"msg_timetag\":1741340885012,\"rescode\":200,\"talk_id\":\"meetingnext-qa-bfsite1_102382718\",\"third_party_callback_ext\":\"\"}"
+03-07,17:48:05.114 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:05.114 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":[{\"id\":16666,\"deptName\":\"QA并发预付费站点\",\"level\":\"16666#\",\"perent\":0,\"children\":[{\"id\":16672,\"deptName\":\"开发部门1级\",\"level\":\"16666#16672#\",\"perent\":16666,\"children\":[]}]}]}"
+03-07,17:48:05.114 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:05:114"
+03-07,17:48:05.114 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  158  ms
+03-07,17:48:05.114 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:05.116 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::initDataByDeptId 432] DeptTreeCount =  2
+03-07,17:48:05.116 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:05.116 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getImContactsByPage?page=0&deptId=16672&loginName=enlong_previp&token=03feaa66f704f02da9af4c895ea3d8a0&timeStamp=1741340885116"
+03-07,17:48:05.116 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:05.202 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:05.202 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":[{\"imAccid\":\"meetingnext-qa-bfsite1_102382718\",\"nickName\":\"leifang_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382718},{\"imAccid\":\"meetingnext-qa-bfsite1_102382719\",\"nickName\":\"zhanggai_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382719},{\"imAccid\":\"meetingnext-qa-bfsite1_102382720\",\"nickName\":\"hongfei_preshare\",\"deptId\":\"16672\",\"imgFile\":\"https://meetingnext-qa-bfsite1.bizvideo.cn/uploadfiles/user_picture/d0978ed11f7db54b7ca6dc9c5bd741bb.jpg\",\"userId\":102382720},{\"imAccid\":\"meetingnext-qa-bfsite1_102382721\",\"nickName\":\"liubin_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382721},{\"imAccid\":\"meetingnext-qa-bfsite1_102382722\",\"nickName\":\"viher_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382722},{\"imAccid\":\"meetingnext-qa-bfsite1_102382723\",\"nickName\":\"enlong_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382723},{\"imAccid\":\"meetingnext-qa-bfsite1_102382724\",\"nickName\":\"guangyi_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382724},{\"imAccid\":\"meetingnext-qa-bfsite1_102382725\",\"nickName\":\"zhangyan_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382725},{\"imAccid\":\"meetingnext-qa-bfsite1_102382726\",\"nickName\":\"xudan_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382726},{\"imAccid\":\"meetingnext-qa-bfsite1_102382727\",\"nickName\":\"chenyuan_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382727},{\"imAccid\":\"meetingnext-qa-bfsite1_102382728\",\"nickName\":\"arm_preshare\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382728},{\"imAccid\":\"meetingnext-qa-bfsite1_102382729\",\"nickName\":\"leifang_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382729},{\"imAccid\":\"meetingnext-qa-bfsite1_102382730\",\"nickName\":\"zhanggai_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382730},{\"imAccid\":\"meetingnext-qa-bfsite1_102382731\",\"nickName\":\"hongfei_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382731},{\"imAccid\":\"meetingnext-qa-bfsite1_102382732\",\"nickName\":\"enlong_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382732},{\"imAccid\":\"meetingnext-qa-bfsite1_102382735\",\"nickName\":\"zhangyan_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382735},{\"imAccid\":\"meetingnext-qa-bfsite1_102382736\",\"nickName\":\"xudan_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382736},{\"imAccid\":\"meetingnext-qa-bfsite1_102382737\",\"nickName\":\"chenyuan_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382737},{\"imAccid\":\"meetingnext-qa-bfsite1_102382738\",\"nickName\":\"guangyi_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382738},{\"imAccid\":\"meetingnext-qa-bfsite1_102382739\",\"nickName\":\"liubin_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382739},{\"imAccid\":\"meetingnext-qa-bfsite1_102382740\",\"nickName\":\"arm_previp\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382740},{\"imAccid\":\"meetingnext-qa-bfsite1_102382784\",\"nickName\":\"leifangtest1\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382784},{\"imAccid\":\"meetingnext-qa-bfsite1_102382804\",\"nickName\":\"leifang_presharem\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382804},{\"imAccid\":\"meetingnext-qa-bfsite1_102382810\",\"nickName\":\"viher_1\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382810},{\"imAccid\":\"meetingnext-qa-bfsite1_102382814\",\"nickName\":\"test_1218\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382814},{\"imAccid\":\"meetingnext-qa-bfsite1_102382815\",\"nickName\":\"test_1219\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382815},{\"imAccid\":\"meetingnext-qa-bfsite1_102382816\",\"nickName\":\"test_1230\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382816},{\"imAccid\":\"meetingnext-qa-bfsite1_102382862\",\"nickName\":\"leifang_zest1\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382862},{\"imAccid\":\"meetingnext-qa-bfsite1_102382863\",\"nickName\":\"test_123\",\"deptId\":\"16672\",\"imgFile\":\"\",\"userId\":102382863}],\"pageCount\":1,\"rowsCount\":29,\"nowPage\":\"1\"}"
+03-07,17:48:05.203 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:05:203"
+03-07,17:48:05.203 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  86  ms
+03-07,17:48:05.203 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:05.203 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::initDataByDeptId 485] PersonTreeCount =  29
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]  └─ [ 0 ] root  ( Department )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]     └─ [ 16666 ] QA并发预付费站点  ( Department )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]        └─ [ 16672 ] 开发部门1级  ( Department )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382718 ] leifang_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382719 ] zhanggai_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382720 ] hongfei_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382721 ] liubin_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382722 ] viher_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382723 ] enlong_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382724 ] guangyi_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382725 ] zhangyan_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382726 ] xudan_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382727 ] chenyuan_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382728 ] arm_preshare  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382729 ] leifang_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382730 ] zhanggai_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382731 ] hongfei_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382732 ] enlong_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382735 ] zhangyan_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382736 ] xudan_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382737 ] chenyuan_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382738 ] guangyi_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382739 ] liubin_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382740 ] arm_previp  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382784 ] leifangtest1  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382804 ] leifang_presharem  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382810 ] viher_1  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382814 ] test_1218  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382815 ] test_1219  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382816 ] test_1230  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           ├─ [ 102382862 ] leifang_zest1  ( Person )
+03-07,17:48:05.204 [DEBUG] [hcaddressbook.h HCAddressBook::printTree 180]           └─ [ 102382863 ] test_123  ( Person )
+03-07,17:48:05.205 [DEBUG] [addressbookpagewgt.cpp AddressBookPageWgt::initDataByDeptId 540]  nowPage =  1  pageCount =  1  rowsCount =  29
+03-07,17:48:07.520 [DEBUG] [calllistwgt.cpp CallListWgt::on_callStatusListWgt_itemClicked 205] CallListWgt::on_callStatusListWgt_itemClicked "leifang_preshare"
+03-07,17:48:07.520 [DEBUG] [calllistwgt.cpp CallListWgt::on_callStatusListWgt_itemClicked 213]  Status =  "CallStatus-Calling"
+03-07,17:48:07.520 [DEBUG] [calllistwgt.cpp CallListWgt::slot_onCallStatusChanged 443] CallListWgt::slot_onCallStatusChanged  senderId =  "meetingnext-qa-bfsite1_102382718"  cmdType =  "CSC"
+03-07,17:48:07.521 [DEBUG] [customevent.h formatJsonString 155] Json String =  "dc0946f8236b710242e5f2b5c2bf7745~CSC~50009000037~074838"
+03-07,17:48:07.521 [DEBUG] [customevent.h formatJsonString 156] JSON parse error: "illegal value"
+03-07,17:48:07.521 [DEBUG] [hcsdkmgr.cpp NimSdkEventFilter::eventFilter 94] MEL_KEY_POINT ---> "\n SendMsg = \ndc0946f8236b710242e5f2b5c2bf7745~CSC~50009000037~074838"
+03-07,17:48:07.575 [DEBUG] [session_callback.cpp nim_comp::TalkCallback::OnSendMsgCallback 23] nim_comp::TalkCallback::OnSendMsgCallback  JsonStr =  "{\"anti_spam_res\":\"\",\"msg_id\":\"{50d7f128-178c-4d2a-adef-885c179d0659}\",\"msg_id_server\":13561881465288,\"msg_timetag\":1741340887544,\"rescode\":200,\"talk_id\":\"meetingnext-qa-bfsite1_102382718\",\"third_party_callback_ext\":\"\"}"
+03-07,17:48:09.231 [DEBUG] [calllistwgt.cpp CallListWgt::~CallListWgt 43] CallListWgt::~CallListWgt
+03-07,17:48:16.524 [DEBUG] [hcsdkmgr.cpp onMeetingStatusChanged 20] onMeetingStatusChanged  status =  3  result =  0  extrainfo =  ""
+03-07,17:48:16.525 [DEBUG] [rootuimgr.cpp RootUiMgr::slot_onMeetingStatusChanged 1016] RootUiMgr::slot_onMeetingStatusChanged  status =  3  result =  0  extrainfo =  ""
+03-07,17:48:16.525 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::clearLastJoinArgs 376] HCSdkMgr::clearLastJoinArgs
+03-07,17:48:17.812 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 265] MainPanelWgt::slot_menuBarBtn_clicked
+03-07,17:48:17.812 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 270]  Sender =  "menuBarBtn_1"
+03-07,17:48:17.813 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_curPage_changed 344] MainPanelWgt::slot_curPage_changed  CurPage =  0
+03-07,17:48:17.813 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:17.813 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfsByLoginNameAndTime2?startTime=2025-03-06%%2016%%3A00%%3A00&endTime=2026-03-06%%2016%%3A00%%3A00&skip=0&loginName=enlong_previp&token=203199bcf73513f8c54e418d57a8fec9&timeStamp=1741340897813"
+03-07,17:48:17.813 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:17.895 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:17.895 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":[]}"
+03-07,17:48:17.895 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:17:895"
+03-07,17:48:17.895 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  81  ms
+03-07,17:48:17.895 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:17.896 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::updateConfsByTime 1067] ConfListCount =  0
+03-07,17:48:17.896 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::updateConfsByTime 1071] ConfList2Count =  0
+03-07,17:48:19.141 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_confOperaBtn_clicked 1179] ConfMgrPageWgt::slot_confOperaBtn_clicked  Sender = "scheduleConfBtn"
+03-07,17:48:19.169 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::initPage 107] Current Time Zone Info:  "(UTC+08:00) 中国标准时间"
+03-07,17:48:19.171 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:19.171 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getAvailableRooms?startTime=2025-03-07%%2010%%3A00%%3A00&duration=60&beforeTime=30&loginName=enlong_previp&token=4b6843649a670f5a2e501b5f9bf8c031&timeStamp=1741340899171"
+03-07,17:48:19.171 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:19.263 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:19.263 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"numParties\":[{\"num_counts\":\"24\",\"num_partis\":\"0\"}]}}"
+03-07,17:48:19.263 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:19:263"
+03-07,17:48:19.263 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  93  ms
+03-07,17:48:19.263 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:19.265 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::updateAvailableRooms 657] GetAvailableRoomsResult =  "{\"status\":100,\"message\":\"success\",\"data\":{\"numParties\":[{\"num_counts\":\"24\",\"num_partis\":\"0\"}]}}"
+03-07,17:48:22.279 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:22.279 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/confReservation?confName=enlong_previp%%E7%%9A%%84%%E8%%A7%%86%%E9%%A2%%91%%E4%%BC%%9A%%E8%%AE%%AE&hostKey=&password=&hostName=&startTime=2025-03-07%%2010:00:00&duration=60&optionJbh=0&isCycle=0&cycleId=0&cycleEndTime=2025-03-08%%2015:59:59&optionVideoParticipants=1&muteWhenJoining=0&waitingRoom=0&meetingAuthentication=0&watermark=0&isTuiliu=0&diyTuiliu=0&streamUrl=&streamKey=&liveUrl=&interpretation=0&ignoreSpecial=1&loginName=enlong_previp&token=603816e42da3a8b9ca7101780e587dcc&timeStamp=1741340902279"
+03-07,17:48:22.279 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:22.570 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:22.570 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"confZoomId\":\"1230593880\",\"message\":\"success\",\"virConfId\":6682538,\"confId\":10315980,\"data\":{\"hostName\":\"enlong_previp\",\"beforeTime\":0,\"webClientJoin\":\"https://meetingdev.bizvideo.cn/wc/join/1230593880?pwd=\",\"optionJbh\":0,\"muteWhenJoining\":0,\"virConfId\":6682538,\"meetingAuthentication\":0,\"streamKey\":\"\",\"duration\":60,\"password\":\"\",\"startTime\":\"2025-03-07 10:00:00\",\"audio\":0,\"confType\":0,\"watchUrl\":\"\",\"confId\":10315980,\"streamUrl\":\"\",\"optionStartType\":1,\"watermark\":0,\"diyTuiliu\":0,\"zak\":\"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDE0ODkyMDAsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.TRuDxA5Fa_agsLTyYseu8IndpXlLgvt-De3dImNg1TI\",\"isBingfa\":1,\"confNumParties\":50,\"hostKey\":\"374557\",\"meetingNumber\":\"1230593880\",\"autoTuiliu\":0,\"optionVideoHost\":0,\"meetingName\":\"enlong_previp的视频会议\",\"confStatus\":0,\"interpretation\":0,\"h323_password\":\"\",\"waitingRoom\":0,\"optionVideoParticipants\":1}}"
+03-07,17:48:22.570 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:22:570"
+03-07,17:48:22.570 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  291  ms
+03-07,17:48:22.570 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:22.571 [DEBUG] [confmgrpagewgt.cpp  1244]  nResult =  1
+03-07,17:48:22.584 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 265] MainPanelWgt::slot_menuBarBtn_clicked
+03-07,17:48:22.584 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_menuBarBtn_clicked 270]  Sender =  "menuBarBtn_1"
+03-07,17:48:22.585 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_curPage_changed 344] MainPanelWgt::slot_curPage_changed  CurPage =  0
+03-07,17:48:22.585 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:22.585 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfsByLoginNameAndTime2?startTime=2025-03-06%%2016%%3A00%%3A00&endTime=2026-03-06%%2016%%3A00%%3A00&skip=0&loginName=enlong_previp&token=3a61ef289e9e26461cd8ef356179df55&timeStamp=1741340902585"
+03-07,17:48:22.585 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:22.662 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:22.663 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":[{\"confId\":10315980,\"hostName\":\"enlong_previp\",\"watermark\":0,\"beforeTime\":0,\"confNumParties\":50,\"isCycle\":0,\"virConfId\":6682538,\"meetingNumber\":\"1230593880\",\"confName\":\"enlong_previp的视频会议\",\"duration\":60,\"password\":\"\",\"confStatus\":0,\"startTime\":\"2025-03-07 10:00:00\",\"confType\":0}]}"
+03-07,17:48:22.663 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:22:663"
+03-07,17:48:22.663 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  77  ms
+03-07,17:48:22.663 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:22.663 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::updateConfsByTime 1067] ConfListCount =  1
+03-07,17:48:22.663 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::updateConfsByTime 1071] ConfList2Count =  0
+03-07,17:48:22.675 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_confOperaBtn_clicked 1267]  nExec =  1
+03-07,17:48:24.354 [DEBUG] [confmgrpagewgt.cpp ConfInfoItemWgt::slot_operaBtn_clicked 100]  ConfInfo_DataStr =   
+ ----- ----- ----- ----- ----- ----- 
+ hostName = enlong_previp  
+ beforeTime = 0  
+ virConfId = 6682538  
+ meetingAuthentication = 0  
+ duration = 60  
+ password =   
+ autoTuiliu = 0  
+ diyTuiliu = 0  
+ streamKey =   
+ streamUrl =   
+ watchUrl =   
+ isCycle = 0  
+ confName = enlong_previp的视频会议  
+ confType = 0  
+ confId = 10315980  
+ confStatus = 0  
+ confNumParties = 50  
+ meetingNumber = 1230593880  
+ startTime = 2025-03-07 18:00:00  
+ watermark = 0  
+ beInvited = 0  
+ interpretation = 0  
+ waitingRoom = 0  
+ t_userId =   
+ t_token =   
+ zak =   
+ ----- ----- ----- ----- ----- -----
+03-07,17:48:24.750 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_operaBtn_clicked 1302] ConfMgrPageWgt::slot_operaBtn_clicked  Sender =  "DetailBtn"
+03-07,17:48:24.756 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::initPage 107] Current Time Zone Info:  "(UTC+08:00) 中国标准时间"
+03-07,17:48:24.783 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::slot_editConfInfo 1492] ReservedConfPageWgt::slot_editConfInfo
+03-07,17:48:24.783 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::slot_editConfInfo 1493]  ConfInfo_DataStr =   
+ ----- ----- ----- ----- ----- ----- 
+ hostName = enlong_previp  
+ beforeTime = 0  
+ virConfId = 6682538  
+ meetingAuthentication = 0  
+ duration = 60  
+ password =   
+ autoTuiliu = 0  
+ diyTuiliu = 0  
+ streamKey =   
+ streamUrl =   
+ watchUrl =   
+ isCycle = 0  
+ confName = enlong_previp的视频会议  
+ confType = 0  
+ confId = 10315980  
+ confStatus = 0  
+ confNumParties = 50  
+ meetingNumber = 1230593880  
+ startTime = 2025-03-07 18:00:00  
+ watermark = 0  
+ beInvited = 0  
+ interpretation = 0  
+ waitingRoom = 0  
+ t_userId =   
+ t_token =   
+ zak =   
+ ----- ----- ----- ----- ----- -----
+03-07,17:48:24.783 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::updateEditConfInfo 786] ObjName =  "confDetailDetailWgt" ReservedConfPageWgt::updateEditConfInfo
+03-07,17:48:24.783 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:24.783 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfBymeetingNumber?meetingNumber=1230593880&loginName=enlong_previp&token=327ef4e42d27060c3d9f072983b18852&timeStamp=1741340904783"
+03-07,17:48:24.783 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:24.866 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:24.867 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"hostName\":\"enlong_previp\",\"beforeTime\":0,\"optionJbh\":0,\"muteWhenJoining\":0,\"cycleId\":0,\"virConfId\":6682538,\"meetingAuthentication\":0,\"streamKey\":\"\",\"duration\":60,\"cycleEndTime\":\"\",\"password\":\"\",\"startTime\":\"2025-03-07 10:00:00\",\"confType\":0,\"watchUrl\":\"\",\"confId\":10315980,\"streamUrl\":\"\",\"watermark\":0,\"diyTuiliu\":0,\"zak\":\"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDE0ODkyMDAsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.TRuDxA5Fa_agsLTyYseu8IndpXlLgvt-De3dImNg1TI\",\"isBingfa\":1,\"confNumParties\":50,\"hostId\":\"102382732\",\"hostKey\":\"374557\",\"meetingNumber\":\"1230593880\",\"autoTuiliu\":0,\"optionVideoHost\":0,\"meetingName\":\"enlong_previp的视频会议\",\"confStatus\":0,\"interpretation\":0,\"waitingRoom\":0,\"optionVideoParticipants\":1}}"
+03-07,17:48:24.867 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:24:867"
+03-07,17:48:24.867 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  83  ms
+03-07,17:48:24.867 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:24.867 [DEBUG] [hchttpclient.cpp HCHttpClient::convertUTCStringToLocalTimeZone 462] Invalid date time format
+03-07,17:48:40.002 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_operaBtn_clicked 1302] ConfMgrPageWgt::slot_operaBtn_clicked  Sender =  "DetailBtn"
+03-07,17:48:40.005 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::initPage 107] Current Time Zone Info:  "(UTC+08:00) 中国标准时间"
+03-07,17:48:40.022 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::slot_editConfInfo 1492] ReservedConfPageWgt::slot_editConfInfo
+03-07,17:48:40.022 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::slot_editConfInfo 1493]  ConfInfo_DataStr =   
+ ----- ----- ----- ----- ----- ----- 
+ hostName = enlong_previp  
+ beforeTime = 0  
+ virConfId = 6682538  
+ meetingAuthentication = 0  
+ duration = 60  
+ password =   
+ autoTuiliu = 0  
+ diyTuiliu = 0  
+ streamKey =   
+ streamUrl =   
+ watchUrl =   
+ isCycle = 0  
+ confName = enlong_previp的视频会议  
+ confType = 0  
+ confId = 10315980  
+ confStatus = 0  
+ confNumParties = 50  
+ meetingNumber = 1230593880  
+ startTime = 2025-03-07 18:00:00  
+ watermark = 0  
+ beInvited = 0  
+ interpretation = 0  
+ waitingRoom = 0  
+ t_userId =   
+ t_token =   
+ zak =   
+ ----- ----- ----- ----- ----- -----
+03-07,17:48:40.022 [DEBUG] [reservedconfpagewgt.cpp ReservedConfPageWgt::updateEditConfInfo 786] ObjName =  "confDetailDetailWgt" ReservedConfPageWgt::updateEditConfInfo
+03-07,17:48:40.023 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:40.023 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfBymeetingNumber?meetingNumber=1230593880&loginName=enlong_previp&token=a25d5747d935af7f1629a200ab46c2e4&timeStamp=1741340920023"
+03-07,17:48:40.023 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:40.135 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:40.135 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"hostName\":\"enlong_previp\",\"beforeTime\":0,\"optionJbh\":0,\"muteWhenJoining\":0,\"cycleId\":0,\"virConfId\":6682538,\"meetingAuthentication\":0,\"streamKey\":\"\",\"duration\":60,\"cycleEndTime\":\"\",\"password\":\"\",\"startTime\":\"2025-03-07 10:00:00\",\"confType\":0,\"watchUrl\":\"\",\"confId\":10315980,\"streamUrl\":\"\",\"watermark\":0,\"diyTuiliu\":0,\"zak\":\"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDE0ODkyMDAsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.TRuDxA5Fa_agsLTyYseu8IndpXlLgvt-De3dImNg1TI\",\"isBingfa\":1,\"confNumParties\":50,\"hostId\":\"102382732\",\"hostKey\":\"374557\",\"meetingNumber\":\"1230593880\",\"autoTuiliu\":0,\"optionVideoHost\":0,\"meetingName\":\"enlong_previp的视频会议\",\"confStatus\":0,\"interpretation\":0,\"waitingRoom\":0,\"optionVideoParticipants\":1}}"
+03-07,17:48:40.135 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:40:135"
+03-07,17:48:40.135 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  112  ms
+03-07,17:48:40.135 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:40.136 [DEBUG] [hchttpclient.cpp HCHttpClient::convertUTCStringToLocalTimeZone 462] Invalid date time format
+03-07,17:48:41.694 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_settingItemBtn_clicked 289] MainPanelWgt::slot_settingItemBtn_clicked
+03-07,17:48:41.694 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_settingItemBtn_clicked 294]  Sender =  "settingItemBtn_2"
+03-07,17:48:41.694 [DEBUG] [rootuimgr.cpp RootUiMgr::slot_ctrlRootWgt 834] RootUiMgr::slot_ctrlRootWgt  Index =  2
+03-07,17:48:41.694 [DEBUG] [rootuimgr.cpp RootUiMgr::showWgt 181] RootUiMgr::showWgt  Index =  2
+03-07,17:48:41.695 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:41.695 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/clientapi/checkVersion?systemName=windows&productName=cn.bizconf.bizconfvc&versionId=1.0.283"
+03-07,17:48:41.763 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:41.763 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"No updates available!\",\"result\":false}"
+03-07,17:48:41.763 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:41:763"
+03-07,17:48:41.763 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  69  ms
+03-07,17:48:41.763 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:41.763 [DEBUG] [versioninfowgt.cpp VersionInfoWgt::getVersionInfo 130]  No_New_Verson 
+03-07,17:48:41.763 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:48:41.765 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_1"
+03-07,17:48:41.765 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  0
+03-07,17:48:42.817 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:48:42.817 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_4"
+03-07,17:48:42.821 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  3
+03-07,17:48:42.821 [DEBUG] [servicepagewgt.cpp ServicePageWgt::initPage 32] ServicePageWgt::initPage
+03-07,17:48:42.821 [DEBUG] [servicepagewgt.cpp ServicePageWgt::slot_btnGroupClicked 109] ServicePageWgt::slot_btnGroupClicked  BtnId =  2
+03-07,17:48:44.240 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:48:44.240 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_6"
+03-07,17:48:44.243 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  5
+03-07,17:48:44.243 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:44.243 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/clientapi/checkVersion?systemName=windows&productName=cn.bizconf.bizconfvc&versionId=1.0.283"
+03-07,17:48:44.315 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:44.316 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"No updates available!\",\"result\":false}"
+03-07,17:48:44.316 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:44:316"
+03-07,17:48:44.316 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  72  ms
+03-07,17:48:44.316 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:44.316 [DEBUG] [versioninfowgt.cpp VersionInfoWgt::getVersionInfo 130]  No_New_Verson 
+03-07,17:48:47.899 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 187] SettingMainWgt::slot_menuBarBtn_clicked
+03-07,17:48:47.899 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_menuBarBtn_clicked 192]  Sender =  "menuBarBtn_1"
+03-07,17:48:47.900 [DEBUG] [settingmainwgt.cpp SettingMainWgt::slot_curPage_changed 210] SettingMainWgt::slot_curPage_changed  CurPage =  0
+03-07,17:48:51.267 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_confOperaBtn_clicked 1179] ConfMgrPageWgt::slot_confOperaBtn_clicked  Sender = "joinConfBtn"
+03-07,17:48:51.271 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::sdk_autoJoinAudio 443] HCSdkMgr::sdk_autoJoinAudio  get =  true
+03-07,17:48:51.271 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::sdk_muteAudio 387] HCSdkMgr::sdk_muteAudio  get =  true
+03-07,17:48:51.271 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::sdk_muteVideo 415] HCSdkMgr::sdk_muteVideo  get =  true
+03-07,17:48:51.271 [DEBUG] [joinconfpagewgt.cpp JoinConfPageWgt::on_joinConfCbx_41_stateChanged 198] JoinConfPageWgt::on_joinConfCbx_41_stateChanged  nState =  2
+03-07,17:48:51.271 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::sdk_muteAudio 392] HCSdkMgr::sdk_muteAudio  set =  true
+03-07,17:48:51.271 [DEBUG] [joinconfpagewgt.cpp JoinConfPageWgt::on_joinConfCbx_51_stateChanged 215] JoinConfPageWgt::on_joinConfCbx_51_stateChanged  nState =  2
+03-07,17:48:51.271 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::sdk_muteVideo 420] HCSdkMgr::sdk_muteVideo  set =  true
+03-07,17:48:53.497 [DEBUG] [confmgrpagewgt.cpp ConfMgrPageWgt::slot_confOperaBtn_clicked 1267]  nExec =  0
+03-07,17:48:54.315 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_userHeadBtn_clicked 256] MainPanelWgt::slot_userHeadBtn_clicked
+03-07,17:48:54.315 [DEBUG] [roundheadlabel.cpp RoundHeadLabel::setHeadImage 24] 65 65
+03-07,17:48:55.215 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:48:55.215 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfBymeetingNumber?meetingNumber=50009000037&loginName=enlong_previp&token=2df1455c5bc4916dc7161760d3430320&timeStamp=1741340935215"
+03-07,17:48:55.215 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:48:55.302 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:48:55.302 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"hostName\":\"enlong_previp\",\"beforeTime\":0,\"optionJbh\":0,\"muteWhenJoining\":0,\"cycleId\":0,\"virConfId\":0,\"meetingAuthentication\":0,\"streamKey\":\"\",\"duration\":52560000,\"cycleEndTime\":\"\",\"password\":\"074838\",\"startTime\":\"2024-11-17 02:28:04\",\"confType\":0,\"watchUrl\":\"\",\"confId\":0,\"streamUrl\":\"\",\"watermark\":0,\"diyTuiliu\":0,\"zak\":\"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjQ4ODU1NTQ0ODQsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.Wtn8vKTWE8ejqOoQgyaZg5FXTxMiIZIjd7Lc5siEzpk\",\"isBingfa\":0,\"confNumParties\":50,\"hostId\":2665602,\"hostKey\":\"623825\",\"meetingNumber\":\"50009000037\",\"autoTuiliu\":0,\"optionVideoHost\":0,\"meetingName\":\"enlong_previp 的个人会议室\",\"confStatus\":0,\"interpretation\":1,\"waitingRoom\":0,\"optionVideoParticipants\":1}}"
+03-07,17:48:55.302 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:48:55:302"
+03-07,17:48:55.302 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  87  ms
+03-07,17:48:55.302 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:48:55.304 [DEBUG] [hchttpclient.cpp HCHttpClient::convertUTCStringToLocalTimeZone 462] Invalid date time format
+03-07,17:48:59.377 [DEBUG] [confroommgrpagewgt.cpp ConfRoomMgrPageWgt::on_editPageBtn_62_clicked 412] ConfRoomMgrPageWgt::on_editPageBtn_62_clicked  checked =  false
+03-07,17:48:59.377 [DEBUG] [hcmenu.cpp HCMenu::setInfo::<lambda_ba2a7555c6a678a6180639d29b85ac7a>:: 211]  nResult =  -1
+03-07,17:48:59.388 [DEBUG] [hcmenu.cpp  216]  nExec =  -1
+03-07,17:49:00.724 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_userHeadBtn_clicked 256] MainPanelWgt::slot_userHeadBtn_clicked
+03-07,17:49:00.725 [DEBUG] [roundheadlabel.cpp RoundHeadLabel::setHeadImage 24] 65 65
+03-07,17:49:02.161 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:49:02.161 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfBymeetingNumber?meetingNumber=50009000037&loginName=enlong_previp&token=72153c3aa9331f5264b058f72e1785d1&timeStamp=1741340942161"
+03-07,17:49:02.162 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:49:02.310 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:49:02.310 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"hostName\":\"enlong_previp\",\"beforeTime\":0,\"optionJbh\":0,\"muteWhenJoining\":0,\"cycleId\":0,\"virConfId\":0,\"meetingAuthentication\":0,\"streamKey\":\"\",\"duration\":52560000,\"cycleEndTime\":\"\",\"password\":\"074838\",\"startTime\":\"2024-11-17 02:28:04\",\"confType\":0,\"watchUrl\":\"\",\"confId\":0,\"streamUrl\":\"\",\"watermark\":0,\"diyTuiliu\":0,\"zak\":\"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjQ4ODU1NTQ0ODQsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.Wtn8vKTWE8ejqOoQgyaZg5FXTxMiIZIjd7Lc5siEzpk\",\"isBingfa\":0,\"confNumParties\":50,\"hostId\":2665602,\"hostKey\":\"623825\",\"meetingNumber\":\"50009000037\",\"autoTuiliu\":0,\"optionVideoHost\":0,\"meetingName\":\"enlong_previp 的个人会议室\",\"confStatus\":0,\"interpretation\":1,\"waitingRoom\":0,\"optionVideoParticipants\":1}}"
+03-07,17:49:02.310 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:49:02:310"
+03-07,17:49:02.310 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  148  ms
+03-07,17:49:02.310 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:49:02.311 [DEBUG] [hchttpclient.cpp HCHttpClient::convertUTCStringToLocalTimeZone 462] Invalid date time format
+03-07,17:49:06.099 [DEBUG] [confroommgrpagewgt.cpp ConfRoomMgrPageWgt::on_editPageBtn_61_clicked 386] ConfRoomMgrPageWgt::on_editPageBtn_61_clicked  checked =  false
+03-07,17:49:06.100 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:49:06.100 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/zsconfModify?meetingNumber=50009000037&optionJbh=0&muteWhenJoining=1&optionVideoParticipants=0&password=074838&loginName=enlong_previp&token=aa0c11fd0bbf222650321cebd271d918&timeStamp=1741340946100"
+03-07,17:49:06.100 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:49:06.204 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:49:06.204 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"meetingNumber\":\"50009000037\"}}"
+03-07,17:49:06.204 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:49:06:204"
+03-07,17:49:06.204 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  104  ms
+03-07,17:49:06.204 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:49:06.205 [DEBUG] [hcmenu.cpp HCMenu::setInfo::<lambda_ba2a7555c6a678a6180639d29b85ac7a>:: 211]  nResult =  1
+03-07,17:49:06.217 [DEBUG] [hcmenu.cpp  216]  nExec =  1
+03-07,17:49:07.091 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_userHeadBtn_clicked 256] MainPanelWgt::slot_userHeadBtn_clicked
+03-07,17:49:07.092 [DEBUG] [roundheadlabel.cpp RoundHeadLabel::setHeadImage 24] 65 65
+03-07,17:49:07.972 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4116] ----- ----- ----- ----- ----- -----  Start ----- ----- ----- ----- ----- ----- 
+03-07,17:49:07.972 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4153] https url =  "https://apinext-qa.bizvideo.cn/appapi/getConfBymeetingNumber?meetingNumber=50009000037&loginName=enlong_previp&token=4a5251d4e74a974a54b8c61f91961a09&timeStamp=1741340947972"
+03-07,17:49:07.972 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4167] "https header Content-Type = application/json"
+03-07,17:49:08.055 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4244] https err =  QNetworkReply::NoError
+03-07,17:49:08.055 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4252] https result =  "{\"status\":100,\"message\":\"success\",\"data\":{\"hostName\":\"enlong_previp\",\"beforeTime\":0,\"optionJbh\":0,\"muteWhenJoining\":1,\"cycleId\":0,\"virConfId\":0,\"meetingAuthentication\":0,\"streamKey\":\"\",\"duration\":52560000,\"cycleEndTime\":\"\",\"password\":\"074838\",\"startTime\":\"2024-11-16 18:28:04\",\"confType\":0,\"watchUrl\":\"\",\"confId\":0,\"streamUrl\":\"\",\"watermark\":0,\"diyTuiliu\":0,\"zak\":\"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjQ4ODU1MjU2ODQsImlzcyI6IkhqaHNGdUVRaTBJS2lqOThqZllhbm5jMExsS0tKTUVTIiwidWlkIjoyNjY1NjAyLCJzaWQiOjQyMjMsInVUeXBlIjowfQ.d1tM4ulzqiM2pxCXg75Qc-dyUtCoW9n6cKBi36se0dA\",\"isBingfa\":0,\"confNumParties\":50,\"hostId\":2665602,\"hostKey\":\"623825\",\"meetingNumber\":\"50009000037\",\"autoTuiliu\":0,\"optionVideoHost\":0,\"meetingName\":\"enlong_previp 的个人会议室\",\"confStatus\":0,\"interpretation\":1,\"waitingRoom\":0,\"optionVideoParticipants\":0}}"
+03-07,17:49:08.055 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4253] current_time =  "2025-03-07 17:49:08:055"
+03-07,17:49:08.055 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4254] used_time =  83  ms
+03-07,17:49:08.055 [DEBUG] [hchttpclient.cpp HCHttpClient::sendHttpsQuery 4255] ----- ----- ----- ----- ----- -----  End  ----- ----- ----- ----- ----- ----- 
+03-07,17:49:08.056 [DEBUG] [hchttpclient.cpp HCHttpClient::convertUTCStringToLocalTimeZone 462] Invalid date time format
+03-07,17:49:13.659 [DEBUG] [confroommgrpagewgt.cpp ConfRoomMgrPageWgt::on_editPageBtn_62_clicked 412] ConfRoomMgrPageWgt::on_editPageBtn_62_clicked  checked =  false
+03-07,17:49:13.660 [DEBUG] [hcmenu.cpp HCMenu::setInfo::<lambda_ba2a7555c6a678a6180639d29b85ac7a>:: 211]  nResult =  -1
+03-07,17:49:13.672 [DEBUG] [hcmenu.cpp  216]  nExec =  -1
+03-07,18:44:33.217 [DEBUG] [mainpanelwgt.cpp MainPanelWgt::slot_userHeadBtn_clicked 256] MainPanelWgt::slot_userHeadBtn_clicked
+03-07,18:44:33.219 [DEBUG] [roundheadlabel.cpp RoundHeadLabel::setHeadImage 24] 65 65
+03-07,18:44:34.547 [DEBUG] [rootuimgr.cpp RootUiMgr::slot_ctrlAppState 960] RootUiMgr::slot_ctrlAppState  nState =  0
+03-07,18:44:34.632 [DEBUG] [hcsdkmgr.cpp HCSdkMgr::nim_client_uninit 532] nim_client_uninit Ret =  true
+03-07,18:44:34.635 [DEBUG] [main.cpp main 461] exec.ret =  0
+03-07,18:44:34.636 [DEBUG] [hcsingleapplication.cpp HCSingleApplication::~HCSingleApplication 125] detach before clean
+03-07,18:44:34.636 [DEBUG] [hcsingleapplication.cpp HCSingleApplication::~HCSingleApplication 127] detach after clean
+03-07,18:44:34.692 [DEBUG] [hcsdkmgr.cpp NimSdkEventFilter::~NimSdkEventFilter 49] NimSdkEventFilter::~NimSdkEventFilter
