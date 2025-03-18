@@ -10,9 +10,9 @@ CONFIG += c++17
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 
-win32{
+win32:{
     # 定义文件或文件夹路径
-    LIB_FILE_PATH =$$PWD/../../../build-libarchive-Desktop_x86_windows_msvc2017_pe_32bit-Release/libarchive/archive.lib
+    LIB_FILE_PATH =$$PWD/bin/windows/release/archive.lib
     # 检查文件或文件夹是否存在
     exists($$LIB_FILE_PATH) {
         message("Tips: Find the file or folder '$$LIB_FILE_PATH' link it!")
@@ -31,20 +31,52 @@ win32{
 #    DEPENDPATH += $$PWD/../../libarchive
 
 #    CONFIG(debug, debug|release) {
-#        LIBS += -L$$PWD/../../../build-libarchive-Desktop_x86_windows_msvc2017_pe_32bit-Release/libarchive -larchive
-#    } else {
+#        LIBS += -L$$PWD/../../../build-libarchive-Desktop_x86_windows_msvc2017_pe_32bit-Release/libarchive -larchive    } else {
 #        LIBS += -L$$PWD/../../../build-libarchive-Desktop_x86_windows_msvc2017_pe_32bit-Release/libarchive -larchive
 #    }
+c
+    INCLUDEPATH += $$PWD/include
+    DEPENDPATH += $$PWD/include
+
+    CONFIG(debug, debug|release) {
+        LIBS += -L$$PWD/bin/windows/release -larchive
+    } else {
+        LIBS += -L$$PWD/bin/windows/debug -larchive
+    }
+}
+
+
+macx:{
+    # 定义文件或文件夹路径
+    LIB_FILE_PATH =$$PWD/bin/mac/release/libarchive.a
+    # 检查文件或文件夹是否存在
+    exists($$LIB_FILE_PATH) {
+        message("Tips: Find the file or folder '$$LIB_FILE_PATH' link it!")
+    } else {
+        message("Error: The file or folder '$$LIB_FILE_PATH' does not exist!")
+    }
+
+    CONFIG(debug, debug|release) {
+        DESTDIR =$$PWD/build_debug/
+    } else {
+        DESTDIR =$$PWD/build_release/
+    }
+    message( DESTDIR = $$DESTDIR )
 
     INCLUDEPATH += $$PWD/include
     DEPENDPATH += $$PWD/include
 
     CONFIG(debug, debug|release) {
-        LIBS += -L$$PWD/bin -larchive
+        LIBS += -L$$PWD/bin/mac/release -larchive
     } else {
-        LIBS += -L$$PWD/bin -larchive
+        LIBS += -L$$PWD/bin/mac/debug -larchive
     }
 }
+
+
+
+
+
 
 
 SOURCES += \
