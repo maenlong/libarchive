@@ -27,7 +27,7 @@ echo "Building Release version..."
 mkdir build-release
 cd build-release
 
-cmake .. -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=../build_mac_release -DCMAKE_OSX_ARCHITECTURES=x86_64 -DENABLE_CPIO=OFF -DENABLE_TAR=OFF -DENABLE_TEST=OFF
+cmake .. -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=../build_mac_release -DCMAKE_OSX_ARCHITECTURES=x86_64
 
 make
 make install
@@ -40,7 +40,7 @@ echo "Building Debug version..."
 mkdir build-debug
 cd build-debug
 
-cmake .. -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=../build_mac_debug -DCMAKE_OSX_ARCHITECTURES=x86_64 -DENABLE_CPIO=OFF -DENABLE_TAR=OFF -DENABLE_TEST=OFF
+cmake .. -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug -DBUILD_SHARED_LIBS=ON -DCMAKE_INSTALL_PREFIX=../build_mac_debug -DCMAKE_OSX_ARCHITECTURES=x86_64
 make
 make install
 
