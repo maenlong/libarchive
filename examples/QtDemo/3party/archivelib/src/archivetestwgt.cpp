@@ -1,3 +1,6 @@
+#include "archivetestwgt.h"
+#include "ui_archivetestwgt.h"
+
 #include <archive.h>
 #include <archive_entry.h>
 
@@ -5,8 +8,9 @@
 #include <QFileInfoList>
 #include <QString>
 #include <QDebug>
+#include <QProcess>
 
-bool compressFolderToZip(const QString &folderPath, const QString &archivePath)
+bool ArchiveTestWgt::compressFolderToZip(const QString &folderPath, const QString &archivePath)
 {
 #ifdef HAVE_LIB_ARCHIVE
     struct archive *a;
@@ -48,11 +52,12 @@ bool compressFolderToZip(const QString &folderPath, const QString &archivePath)
     archive_write_free(a);
     return true;
 #else
-    return false;
+    bool bRet = compressFolderToZipSys(folderPath, archivePath);
+    return bRet;
 #endif
 }
 
-bool decompressZipToFolder(const QString &archivePath, const QString &outputFolderPath)
+bool ArchiveTestWgt::decompressZipToFolder(const QString &archivePath, const QString &outputFolderPath)
 {
 #ifdef HAVE_LIB_ARCHIVE
     struct archive *a;
@@ -94,13 +99,14 @@ bool decompressZipToFolder(const QString &archivePath, const QString &outputFold
     archive_read_free(a);
     return true;
 #else
-    return false;
+    bool bRet = decompressZipToFolderSys(archivePath, folderPath);
+    return bRet;
 #endif
 }
 
 
 
-bool compressFolderToTar(const QString &folderPath, const QString &tarFilePath)
+bool ArchiveTestWgt::compressFolderToTar(const QString &folderPath, const QString &tarFilePath)
 {
 #ifdef HAVE_LIB_ARCHIVE
     struct archive *a;
@@ -145,7 +151,7 @@ bool compressFolderToTar(const QString &folderPath, const QString &tarFilePath)
 #endif
 }
 
-bool decompressTarToFolder(const QString &tarFilePath, const QString &outputFolderPath)
+bool ArchiveTestWgt::decompressTarToFolder(const QString &tarFilePath, const QString &outputFolderPath)
 {
 #ifdef HAVE_LIB_ARCHIVE
     struct archive *a;
@@ -192,10 +198,174 @@ bool decompressTarToFolder(const QString &tarFilePath, const QString &outputFold
 
 
 
+bool ArchiveTestWgt::compressFolderToZipSys(QString folderPath, QString archivePath)
+{
+    folderPath = QDir::cleanPath(folderPath);
+    archivePath = QDir::cleanPath(archivePath);
+
+    // 检查输入路径是否存在
+    QDir dir(folderPath);
+    if (!dir.exists())
+    {
+        qDebug() << "Folder does not exist:" << folderPath;
+        return false;
+    }
+
+    // 如果压缩文件已经存在，先删除它
+    QFile archiveFile(archivePath);
+    if (archiveFile.exists())
+    {
+        if (!archiveFile.remove())
+        {
+            qDebug() << "Failed to remove existing archive file:" << archivePath;
+            return false;
+        }
+    }
+
+    QProcess process;
+    QString command;
+
+#ifdef Q_OS_WIN
+    // Windows 平台，使用 PowerShell 的 Compress-Archive
+    command = QString("powershell -Command Compress-Archive -Path \"%1\" -DestinationPath \"%2\"")
+                  .arg(folderPath.replace("/", "\\"))  // PowerShell 使用 Windows 风格路径
+                  .arg(archivePath.replace("/", "\\"));
+#elif defined(Q_OS_MAC) || defined(Q_OS_LINUX)
+    // macOS 和 Linux 平台，调整 zip 命令的工作路径
+    QDir parentDir = dir.absolutePath() + "/..";  // 获取上级目录
+    QString folderName = dir.dirName();          // 获取当前文件夹名
+    process.setWorkingDirectory(parentDir.absolutePath()); // 显式设置工作目录
+
+    command = QString("zip -r \"%1\" \"%2\"")
+                  .arg(archivePath)  // 压缩文件路径
+                  .arg(folderName);  // 当前文件夹名
+#else
+    qDebug() << "Unsupported platform!";
+    return false;
+#endif
+
+    qDebug() << "Executing command:" << command;
+
+    // 执行命令
+    process.start(command);
+    if (!process.waitForFinished())
+    {
+        qDebug() << "Compression failed:" << process.errorString();
+        qDebug() << "Standard Output:" << process.readAllStandardOutput();
+        qDebug() << "Standard Error:" << process.readAllStandardError();
+        return false;
+    }
+
+    // 检查返回状态
+    if (process.exitCode() != 0)
+    {
+        qDebug() << "Compression command failed with exit code:" << process.exitCode();
+        qDebug() << "Standard Output:" << process.readAllStandardOutput();
+        qDebug() << "Standard Error:" << process.readAllStandardError();
+        return false;
+    }
+
+    // 检查压缩文件是否生成
+    if (!QFile::exists(archivePath))
+    {
+        qDebug() << "Zip file not found at expected location:" << archivePath;
+        return false;
+    }
+
+    qDebug() << "Compression successful!";
+    return true;
+}
 
 
-#include "archivetestwgt.h"
-#include "ui_archivetestwgt.h"
+
+bool ArchiveTestWgt::decompressZipToFolderSys(QString archivePath, QString folderPath)
+{
+    // 清理路径
+    archivePath = QDir::cleanPath(archivePath);
+    folderPath = QDir::cleanPath(folderPath);
+
+    // 确保 ZIP 文件存在
+    QFile archiveFile(archivePath);
+    if (!archiveFile.exists())
+    {
+        qDebug() << "Archive file does not exist:" << archivePath;
+        return false;
+    }
+
+    QDir outputDir(folderPath);
+
+    /*
+    // 如果目标文件夹存在，删除整个文件夹
+    if (outputDir.exists())
+    {
+        if (!outputDir.removeRecursively())
+        {
+            qDebug() << "Failed to remove existing folder:" << folderPath;
+            return false;
+        }
+    }
+
+    // 创建目标文件夹
+    if (!outputDir.mkpath("."))
+    {
+        qDebug() << "Failed to create output folder:" << folderPath;
+        return false;
+    }
+    */
+
+    QProcess process;
+    QString command;
+
+#ifdef Q_OS_WIN
+    // Windows 平台，使用 PowerShell 解压
+    command = QString("powershell -Command Expand-Archive -Path \"%1\" -DestinationPath \"%2\"")
+                  .arg(archivePath.replace("/", "\\"))  // Windows 使用反斜杠路径
+                  .arg(folderPath.replace("/", "\\"));
+#elif defined(Q_OS_MAC) || defined(Q_OS_LINUX)
+    // macOS 和 Linux 平台，使用 unzip 命令并移除路径
+    command = QString("unzip -o \"%1\" -d \"%2\"")
+                  .arg(archivePath)         // 压缩文件路径
+                  .arg(folderPath);         // 输出文件夹路径
+#else
+    qDebug() << "Unsupported platform!";
+    return false;
+#endif
+
+    qDebug() << "Executing command:" << command;
+
+    // 执行命令
+    process.start(command);
+    if (!process.waitForFinished())
+    {
+        qDebug() << "Decompression failed:" << process.errorString();
+        qDebug() << "Standard Output:" << process.readAllStandardOutput();
+        qDebug() << "Standard Error:" << process.readAllStandardError();
+        return false;
+    }
+
+    // 检查返回状态
+    if (process.exitCode() != 0)
+    {
+        qDebug() << "Decompression command failed with exit code:" << process.exitCode();
+        qDebug() << "Standard Output:" << process.readAllStandardOutput();
+        qDebug() << "Error output:" << process.readAllStandardError();
+        return false;
+    }
+
+    // 检查输出文件夹是否创建成功
+    if (!outputDir.exists())
+    {
+        qDebug() << "Output folder not found after decompression:" << folderPath;
+        return false;
+    }
+
+    qDebug() << "Decompression successful!";
+    return true;
+}
+
+
+
+
 
 ArchiveTestWgt::ArchiveTestWgt(QWidget *parent)
     : QWidget(parent)
@@ -270,7 +440,5 @@ void ArchiveTestWgt::on_testBtn_4_clicked()
              << "\n File = " << filePath
              << "\n ----- ----- ----- ----- ----- ----- \n" ;
 }
-
-
 
 

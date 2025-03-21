@@ -15,6 +15,15 @@ public:
     ArchiveTestWgt(QWidget *parent = nullptr);
     ~ArchiveTestWgt();
 
+private:
+    bool compressFolderToZip(const QString &folderPath, const QString &archivePath);
+    bool decompressZipToFolder(const QString &archivePath, const QString &outputFolderPath);
+    bool compressFolderToTar(const QString &folderPath, const QString &tarFilePath);
+    bool decompressTarToFolder(const QString &tarFilePath, const QString &outputFolderPath);
+
+    bool compressFolderToZipSys(QString folderPath, QString archivePath);
+    bool decompressZipToFolderSys(QString archivePath, QString folderPath);
+
 private slots:
     void on_testBtn_1_clicked();
     void on_testBtn_2_clicked();
